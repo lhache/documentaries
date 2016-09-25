@@ -1,4 +1,4 @@
-# documentaries
+# Documentaries
 A set of documentaries worth watching
 
 ## History
