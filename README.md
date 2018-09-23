@@ -11,6 +11,7 @@ A set of documentaries worth watching
 ## Earth and bio
 - [Thorium, la face gâchée du nucléaire [fr/de]](http://www.arte.tv/guide/fr/050775-000-A/thorium-la-face-gachee-du-nucleaire?autoplay=1)
 - [Claude Bourguignon - Proteger les sols pour préserver la biodiversité[fr]](https://www.youtube.com/watch?v=K7wbDr_P8NU) _auper about agri, agro and how the soil works_
+- [Ngogo - rise of the warrior apes [en]](https://www.youtube.com/watch?v=R2keXVK8u9c)
 
 
 
