@@ -7,6 +7,7 @@ A set of documentaries worth watching
 - [Le conflit israélo-palestinien de 1880 à 1991 [fr]](https://www.youtube.com/watch?v=nlMc5S66kiU)
 - [La tragédie des Brigades Internationales](http://www.arte.tv/guide/fr/058378-000-A/la-tragedie-des-brigades-internationales?country=FR)
 - [Inkotanyi : Paul Kagame, la tragédie rwandaise](https://www.arte.tv/fr/videos/062274-000-A/inkotanyi-paul-kagame-la-tragedie-rwandaise/)
+- [Abdelkrim et la guerre du Rif](https://www.youtube.com/watch?v=YGIM5Gl23i0)
 
 ## Earth and bio
 - [Thorium, la face gâchée du nucléaire [fr/de]](http://www.arte.tv/guide/fr/050775-000-A/thorium-la-face-gachee-du-nucleaire?autoplay=1)
